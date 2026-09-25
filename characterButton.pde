@@ -1,0 +1,14 @@
+PImage button1;
+PImage button2;
+PImage button3;
+PImage button4;
+PImage button5;
+PImage button6;
+PImage charTitle;
+PImage customer;
+PImage background;
+PImage cake;
+PImage toppings;
+PImage frosting;
+PImage dialogueBox;
+PImage dialogue;
